@@ -1,0 +1,160 @@
+Nome,Origem,Tipo,Característica Única,Avaliação de Amizade (1-10),Expectativa de Vida,Tamanho,Necessidade de Cuidados,Exigências de Exercício (hrs/dia),Bom com Crianças,Avaliação de Inteligência (1-10),Nível de Queda de Pelo,Risco de Problemas de Saúde,Peso Médio (kg),Dificuldade de Treinamento (1-10)
+Affenpinscher,Germany,Toy,Monkey-like face,7,14,Pequeno,Alta,1.5,Sim,8,Moderado,Baixo,4,6
+Afghan Hound,Afghanistan,Hound,Long silky coat,5,13,Grande,Muito Alta,2.0,Não,4,Alto,Moderado,25,8
+Airedale Terrier,England,Terrier,Largest of terriers,8,12,Médio,Alta,2.0,Sim,7,Moderado,Baixo,21,6
+Akita,Japan,Working,Strong loyalty,6,11,Grande,Moderada,2.0,Com Treinamento,7,Alto,Alto,45,9
+Alaskan Malamute,Alaska USA,Working,Strong pulling ability,7,11,Grande,Alta,3.0,Sim,6,Muito Alto,Moderado,36,8
+American Bulldog,USA,Working,Muscular build,8,11,Grande,Baixa,2.0,Sim,6,Moderado,Moderado,42,7
+American Eskimo,USA,Non-Sporting,Pure white coat,9,14,Pequeno-Médio,Alta,2.0,Sim,9,Alto,Baixo,12,5
+American Foxhound,USA,Hound,Musical voice,8,12,Médio,Baixa,2.5,Sim,6,Moderado,Baixo,31,6
+Australian Cattle Dog,Australia,Herding,Unique blue or red coat,7,14,Médio,Moderada,2.5,Sim,9,Moderado,Baixo,15,7
+Australian Shepherd,USA,Herding,Merle coloring,8,14,Médio,Alta,2.5,Sim,9,Alto,Moderado,25,7
+Australian Terrier,Australia,Terrier,Small but tough,7,13,Pequeno,Moderada,1.5,Sim,7,Baixo,Baixo,6.5,6
+Basenji,Central Africa,Hound,Doesn't bark,6,13,Pequeno-Médio,Baixa,2.0,Não,6,Baixo,Baixo,10,9
+Basset Hound,France,Hound,Short legs long body,8,11,Médio,Baixa,1.0,Sim,5,Moderado,Alto,24,7
+Beagle,England,Hound,Excellent sense of smell,9,13,Pequeno-Médio,Baixa,2.0,Sim,7,Moderado,Moderado,10,7
+Bearded Collie,Scotland,Herding,Long shaggy coat,8,13,Médio,Muito Alta,2.0,Sim,8,Alto,Baixo,22,6
+Bernese Mountain Dog,Switzerland,Working,Tri-colored coat,9,8,Grande,Alta,1.5,Sim,7,Alto,Alto,43,5
+Bichon Frise,Mediterranean,Non-Sporting,Cotton-like coat,9,13,Pequeno,Muito Alta,1.0,Sim,8,Baixo,Baixo,4,5
+Black Russian Terrier,Russia,Working,Black protective coat,7,11,Grande,Alta,2.0,Sim,8,Moderado,Moderado,50,8
+Bloodhound,Belgium,Hound,Superior tracking ability,7,11,Grande,Moderada,2.0,Sim,6,Moderado,Alto,43,8
+Border Collie,UK,Herding,Highest intelligence,8,13,Médio,Alta,3.0,Sim,10,Moderado,Baixo,17,6
+Border Terrier,UK,Terrier,Otter-like head,8,13,Pequeno,Moderada,1.5,Sim,7,Moderado,Baixo,6,6
+Borzoi,Russia,Hound,Graceful build,6,11,Grande,Alta,2.0,Não,6,Moderado,Baixo,37,7
+Boston Terrier,USA,Non-Sporting,Tuxedo-like markings,9,12,Pequeno,Baixa,1.5,Sim,8,Baixo,Moderado,9,5
+Bouvier des Flandres,Belgium,Herding,Beard and mustache,7,11,Grande,Muito Alta,2.0,Sim,8,Alto,Moderado,34,7
+Boxer,Germany,Working,Wrinkled forehead,9,11,Grande,Baixa,2.0,Sim,7,Moderado,Moderado,28,6
+Briard,France,Herding,Long protective coat,7,12,Grande,Alta,2.0,Sim,8,Moderado,Baixo,35,7
+Brittany,France,Sporting,Bright orange coloring,8,13,Médio,Moderada,2.5,Sim,8,Moderado,Baixo,17,5
+Brussels Griffon,Belgium,Toy,Human-like expression,7,13,Pequeno,Alta,1.5,Sim,8,Moderado,Moderado,4,7
+Bull Terrier,England,Terrier,Egg-shaped head,7,12,Médio,Baixa,2.0,Com Treinamento,7,Baixo,Moderado,27,7
+Bullmastiff,England,Working,Powerful guardian,6,9,Grande,Baixa,1.5,Com Treinamento,6,Moderado,Alto,52,7
+Cairn Terrier,Scotland,Terrier,Weather-resistant coat,8,14,Pequeno,Moderada,1.5,Sim,7,Moderado,Baixo,7,6
+Canaan Dog,Israel,Herding,Desert-adapted,6,13,Médio,Baixa,2.0,Com Treinamento,8,Moderado,Baixo,21,8
+Cane Corso,Italy,Working,Ancient Roman guardian,6,11,Grande,Baixa,2.0,Com Treinamento,7,Baixo,Moderado,45,9
+Cardigan Welsh Corgi,Wales,Herding,Long tail unlike Pembroke,8,13,Pequeno,Moderada,2.0,Sim,8,Alto,Moderado,13,6
+Cavalier King Charles Spaniel,UK,Toy,Ruby colored coat,10,11,Pequeno,Moderada,1.0,Sim,6,Moderado,Alto,6,4
+Chesapeake Bay Retriever,USA,Sporting,Waterproof coat,7,11,Grande,Moderada,2.5,Sim,7,Moderado,Baixo,30,7
+Chihuahua,Mexico,Toy,Smallest dog breed,6,16,Pequeno,Baixa,1.0,Não,7,Baixo,Moderado,2,7
+Chinese Crested,China,Toy,Hairless variety,7,14,Pequeno,Alta,1.0,Sim,8,Baixo,Baixo,3,6
+Chinese Shar-Pei,China,Non-Sporting,Wrinkled skin,6,10,Médio,Baixa,1.5,Com Treinamento,6,Moderado,Alto,22,8
+Chow Chow,China,Non-Sporting,Blue-black tongue,5,10,Médio,Alta,1.5,Não,5,Alto,Alto,26,9
+Clumber Spaniel,England,Sporting,Massive head,7,11,Médio,Moderada,1.5,Sim,6,Alto,Moderado,31,6
+Cocker Spaniel,England,Sporting,Long ears,9,13,Pequeno-Médio,Alta,1.5,Sim,7,Alto,Moderado,12,5
+Collie,Scotland,Herding,Lassie fame,9,13,Médio,Alta,2.0,Sim,8,Alto,Moderado,24,5
+Curly-Coated Retriever,England,Sporting,Curly water-resistant coat,7,12,Grande,Moderada,2.0,Sim,7,Baixo,Baixo,32,6
+Dachshund,Germany,Hound,Long body short legs,7,14,Pequeno,Baixa,1.5,Com Treinamento,7,Moderado,Alto,10,7
+Dalmatian,Croatia,Non-Sporting,Spotted coat,8,12,Médio,Baixa,2.5,Sim,7,Moderado,Alto,24,7
+Dandie Dinmont Terrier,Scotland,Terrier,Distinctive topknot,7,13,Pequeno,Moderada,1.5,Sim,7,Baixo,Baixo,8,7
+Doberman Pinscher,Germany,Working,Sleek appearance,8,11,Grande,Baixa,2.5,Com Treinamento,9,Baixo,Moderado,35,7
+English Bulldog,England,Non-Sporting,Pushed-in nose,7,9,Médio,Baixa,1.0,Sim,6,Moderado,Alto,20,7
+English Cocker Spaniel,England,Sporting,Merry temperament,8,12,Médio,Alta,1.5,Sim,7,Moderado,Moderado,14,5
+English Foxhound,England,Hound,Pack hunting ability,7,12,Médio,Baixa,2.5,Sim,6,Moderado,Baixo,29,7
+English Setter,England,Sporting,Speckled coat,8,12,Médio,Alta,2.0,Sim,7,Moderado,Moderado,26,6
+English Springer Spaniel,England,Sporting,Dual-purpose hunter,9,13,Médio,Alta,2.0,Sim,7,Moderado,Moderado,20,6
+English Toy Spaniel,England,Toy,Domed head,8,11,Pequeno,Alta,1.0,Sim,7,Moderado,Moderado,5,6
+Entlebucher Mountain Dog,Switzerland,Herding,Tri-colored markings,7,12,Médio,Baixa,2.5,Sim,8,Moderado,Baixo,27,7
+Field Spaniel,England,Sporting,Noble appearance,7,12,Médio,Alta,2.0,Sim,7,Moderado,Baixo,18,6
+Finnish Lapphund,Finland,Herding,Thick double coat,8,12,Médio,Alta,2.0,Sim,7,Alto,Baixo,20,6
+Finnish Spitz,Finland,Non-Sporting,Fox-like appearance,7,13,Médio,Moderada,2.0,Sim,8,Moderado,Baixo,15,7
+Flat-Coated Retriever,England,Sporting,Shiny black coat,9,11,Grande,Moderada,2.5,Sim,8,Moderado,Moderado,32,5
+French Bulldog,France,Non-Sporting,Bat ears,8,11,Pequeno,Baixa,1.0,Sim,7,Baixo,Alto,11,6
+German Pinscher,Germany,Working,Elegant appearance,7,13,Médio,Baixa,2.0,Com Treinamento,8,Moderado,Baixo,13,7
+German Shepherd,Germany,Herding,Police dog fame,8,11,Grande,Moderada,2.5,Com Treinamento,9,Alto,Moderado,31,6
+German Shorthaired Pointer,Germany,Sporting,Versatile hunter,8,13,Grande,Baixa,2.5,Sim,8,Moderado,Baixo,26,6
+German Wirehaired Pointer,Germany,Sporting,Weather resistant coat,7,13,Grande,Moderada,2.5,Sim,8,Moderado,Baixo,27,7
+Giant Schnauzer,Germany,Working,Beard and eyebrows,7,13,Grande,Alta,2.0,Com Treinamento,8,Baixo,Moderado,38,8
+Golden Retriever,Scotland,Sporting,Golden coat,10,11,Grande,Alta,2.0,Sim,8,Alto,Moderado,29,4
+Gordon Setter,Scotland,Sporting,Black and tan coat,8,11,Grande,Alta,2.0,Sim,7,Moderado,Moderado,26,6
+Great Dane,Germany,Working,Giant size,8,8,Gigante,Baixa,2.0,Sim,6,Moderado,Alto,67,6
+Great Pyrenees,France,Working,White guardian,7,11,Grande,Alta,1.5,Sim,6,Alto,Moderado,46,8
+Greater Swiss Mountain Dog,Switzerland,Working,Tri-colored markings,8,10,Grande,Baixa,2.0,Sim,7,Moderado,Moderado,61,7
+Greyhound,Egypt,Hound,Fastest dog breed,7,11,Grande,Baixa,2.0,Sim,7,Baixo,Baixo,33,6
+Harrier,England,Hound,Pack hunting ability,8,12,Médio,Baixa,2.0,Sim,6,Moderado,Baixo,25,6
+Havanese,Cuba,Toy,Silky coat,9,14,Pequeno,Alta,1.5,Sim,8,Baixo,Baixo,5,5
+Ibizan Hound,Spain,Hound,Large ears,7,13,Médio,Baixa,2.0,Sim,7,Baixo,Baixo,22,7
+Icelandic Sheepdog,Iceland,Herding,Spitz-type tail,8,12,Médio,Moderada,2.0,Sim,7,Moderado,Baixo,14,6
+Irish Red and White Setter,Ireland,Sporting,Red and white coat,8,12,Grande,Alta,2.5,Sim,7,Moderado,Moderado,27,6
+Irish Setter,Ireland,Sporting,Rich red coat,8,13,Grande,Alta,2.5,Sim,7,Alto,Moderado,29,6
+Irish Terrier,Ireland,Terrier,Fiery red coat,7,13,Médio,Moderada,1.5,Sim,7,Baixo,Baixo,11,7
+Irish Water Spaniel,Ireland,Sporting,Curly coat,8,11,Grande,Alta,2.0,Sim,7,Baixo,Baixo,24,6
+Irish Wolfhound,Ireland,Hound,Tallest dog breed,7,7,Gigante,Moderada,2.0,Sim,6,Moderado,Alto,54,6
+Italian Greyhound,Italy,Toy,Miniature sight hound,7,13,Pequeno,Baixa,1.5,Não,7,Baixo,Moderado,4,7
+Japanese Chin,Japan,Toy,Eastern expression,7,11,Pequeno,Moderada,1.0,Sim,7,Moderado,Baixo,3,6
+Japanese Spitz,Japan,Non-Sporting,Snow-white coat,8,13,Pequeno,Alta,1.5,Sim,8,Alto,Baixo,6,6
+Keeshond,Netherlands,Non-Sporting,Spectacles marking,8,13,Médio,Alta,1.5,Sim,8,Alto,Baixo,16,6
+Kerry Blue Terrier,Ireland,Terrier,Blue coat,7,13,Médio,Alta,1.5,Sim,7,Baixo,Baixo,16,7
+Komondor,Hungary,Working,Corded coat,6,11,Grande,Muito Alta,2.0,Com Treinamento,6,Baixo,Baixo,40,8
+Kuvasz,Hungary,Working,White guardian,6,11,Grande,Moderada,2.0,Com Treinamento,7,Moderado,Moderado,42,8
+Labrador Retriever,Canada,Sporting,Water-resistant coat,10,11,Grande,Moderada,2.0,Sim,8,Alto,Moderado,30,4
+Lakeland Terrier,England,Terrier,Square build,7,13,Pequeno,Moderada,1.5,Sim,7,Baixo,Baixo,7,7
+Leonberger,Germany,Working,Lion-like mane,8,9,Gigante,Alta,2.0,Sim,7,Alto,Alto,61,8
+Lhasa Apso,Tibet,Non-Sporting,Floor-length coat,6,13,Pequeno,Muito Alta,1.0,Não,7,Baixo,Baixo,6,8
+Lowchen,France,Non-Sporting,Lion cut,8,14,Pequeno,Alta,1.5,Sim,8,Baixo,Baixo,6,6
+Maltese,Malta,Toy,Pure white coat,8,13,Pequeno,Muito Alta,1.0,Não,7,Baixo,Baixo,2.5,6
+Manchester Terrier,England,Terrier,Sleek and athletic,7,15,Pequeno-Médio,Baixa,1.5,Com Treinamento,8,Moderado,Baixo,7,7
+Mastiff,England,Working,Massive size,6,9,Gigante,Baixa,1.5,Sim,6,Moderado,Alto,78,7
+Miniature Pinscher,Germany,Toy,Fearless nature,6,13,Pequeno,Baixa,1.5,Não,7,Baixo,Baixo,4,8
+Miniature Schnauzer,Germany,Standard,Small but sturdy,8,12,Pequeno,Alta,1.5,Sim,8,Moderado,Baixo,8,6
+Neapolitan Mastiff,Italy,Working,Wrinkly loose skin,6,8,Grande,Moderada,1.0,Sim,5,Moderado,Alto,70,8
+Newfoundland,Canada,Working,Water rescue ability,9,9,Gigante,Alta,2.0,Sim,7,Moderado,Moderado,61,7
+Norfolk Terrier,England,Terrier,Bat-like ears,8,14,Pequeno,Baixa,1.5,Sim,7,Baixo,Baixo,5,6
+Norwegian Buhund,Norway,Herding,Spitz-type appearance,8,12,Médio,Moderada,2.0,Sim,7,Moderado,Baixo,12,6
+Norwegian Elkhound,Norway,Hound,Gray coat,7,12,Médio,Moderada,2.0,Sim,7,Moderado,Moderado,23,7
+Norwegian Lundehund,Norway,Non-Sporting,Unique extra toes,7,12,Pequeno,Alta,2.0,Sim,7,Moderado,Alto,8,7
+Old English Sheepdog,England,Herding,Fluffy appearance,8,10,Grande,Muito Alta,2.0,Sim,6,Alto,Moderado,32,6
+Otterhound,England,Hound,Rough-coated,7,10,Grande,Muito Alta,2.5,Sim,6,Alto,Moderado,37,7
+Papillon,France,Toy,Butterfly-shaped ears,9,13,Pequeno,Moderada,1.0,Sim,8,Baixo,Baixo,3,5
+Pekingese,China,Toy,Lion-like appearance,6,12,Pequeno,Muito Alta,1.0,Com Treinamento,5,Moderado,Alto,5,7
+Pembroke Welsh Corgi,Wales,Herding,Short legs long body,9,12,Pequeno,Moderada,2.0,Sim,8,Moderado,Moderado,12,5
+Petit Basset Griffon Vendeen,France,Hound,Low-to-the-ground,7,12,Pequeno,Alta,2.0,Sim,6,Alto,Moderado,15,7
+Pharaoh Hound,Malta,Hound,Regal appearance,7,12,Médio,Moderada,2.0,Sim,8,Moderado,Baixo,20,7
+Pointer,England,Sporting,Distinctive stance,8,12,Médio,Moderada,2.5,Sim,7,Moderado,Moderado,25,6
+Pomeranian,Germany,Toy,Fluffy double coat,8,12,Pequeno,Alta,1.0,Sim,7,Alto,Moderado,3,7
+Poodle (Miniature),France,Non-Sporting,Curly hypoallergenic coat,8,15,Pequeno,Muito Alta,1.5,Sim,8,Baixo,Baixo,7,6
+Poodle (Standard),France,Non-Sporting,Curly coat,9,12,Grande,Muito Alta,2.0,Sim,8,Moderado,Moderado,22,5
+Poodle (Toy),France,Toy,Compact poodle,9,15,Miniatura,Muito Alta,1.0,Sim,8,Baixo,Baixo,4,5
+Portuguese Podengo,Portugal,Hound,Perky ears,7,12,Médio,Moderada,2.0,Sim,8,Moderado,Baixo,15,8
+Portuguese Water Dog,Portugal,Sporting,Curly weatherproof coat,8,11,Médio,Alta,2.0,Sim,8,Moderado,Moderado,18,6
+Pudelpointer,Germany,Sporting,Versatile hunting,7,12,Médio,Moderada,2.5,Sim,8,Moderado,Baixo,23,7
+Pug,China,Toy,Wrinkled face,8,12,Pequeno,Moderada,1.0,Sim,7,Moderado,Alto,7,6
+Pyrenean Mountain Dog,France,Working,Guard dog,7,10,Gigante,Alta,2.0,Sim,6,Alto,Alto,54,7
+Rat Terrier,USA,Terrier,Athletic agile,7,15,Pequeno-Médio,Baixa,2.0,Sim,7,Moderado,Moderado,5,7
+Redbone Coonhound,USA,Hound,Redish coat,8,12,Médio,Moderada,2.0,Sim,6,Moderado,Baixo,25,7
+Rhodesian Ridgeback,Africa,Hound,Ridge of fur on back,6,11,Grande,Moderada,2.5,Com Treinamento,8,Moderado,Moderado,36,7
+Rottweiler,Germany,Working,Powerful guarding,7,9,Grande,Moderada,2.0,Com Treinamento,8,Alto,Alto,40,8
+Saint Bernard,Switzerland,Working,Large size,9,8,Gigante,Alta,2.0,Sim,6,Alto,Moderado,68,7
+Saluki,Middle East,Hound,Slender elegant,6,12,Médio,Moderada,2.5,Não,7,Moderado,Moderado,22,7
+Samoyed,Siberia,Working,Fluffy white coat,9,12,Médio,Alta,2.0,Sim,7,Alto,Moderado,21,7
+Schipperke,Belgium,Non-Sporting,Tailless appearance,7,13,Pequeno,Moderada,2.0,Não,7,Moderado,Moderado,7,7
+Scottish Deerhound,Scotland,Hound,Greyhound-like,6,8,Grande,Moderada,2.0,Sim,6,Moderado,Moderado,41,7
+Scottish Terrier,Scotland,Terrier,Sturdy low-set,7,12,Pequeno,Moderada,1.5,Sim,6,Moderado,Alto,9,7
+Shetland Sheepdog,Scotland,Herding,Miniature Collie,9,12,Médio,Alta,2.0,Sim,8,Alto,Moderado,11,5
+Shiba Inu,Japan,Non-Sporting,Fox-like expression,7,13,Pequeno,Moderada,2.0,Não,7,Moderado,Moderado,9,7
+Shih Tzu,China,Toy,Long flowing coat,8,14,Pequeno,Muito Alta,1.0,Sim,6,Moderado,Moderado,4,7
+Siberian Husky,Siberia,Working,Piercing eyes,8,12,Médio,Moderada,2.5,Sim,7,Moderado,Moderado,21,7
+Silky Terrier,Australia,Terrier,Silky blue coat,7,13,Pequeno,Alta,1.5,Sim,7,Moderado,Baixo,4,7
+Skye Terrier,Scotland,Terrier,Long low body,7,13,Pequeno,Moderada,1.5,Não,6,Moderado,Moderado,8,7
+Sloughi,North Africa,Hound,Powerful hunter,6,12,Médio,Baixa,2.5,Com Treinamento,7,Baixo,Moderado,18,7
+Smooth Fox Terrier,England,Terrier,Energetic,7,13,Pequeno,Baixa,2.0,Sim,7,Moderado,Moderado,7,7
+Soft-Coated Wheaten Terrier,Ireland,Terrier,Soft wavy coat,8,12,Médio,Alta,2.0,Sim,7,Moderado,Moderado,12,6
+Spanish Water Dog,Spain,Sporting,Curly waterproof coat,7,12,Médio,Muito Alta,2.0,Sim,8,Moderado,Moderado,15,6
+Spinone Italiano,Italy,Sporting,Shaggy coat,7,12,Grande,Alta,2.0,Sim,7,Moderado,Moderado,32,7
+Staffordshire Bull Terrier,England,Terrier,Muscular strength,7,12,Médio,Baixa,2.0,Sim,7,Moderado,Alto,16,7
+Standard Poodle,France,Non-Sporting,Intelligent,9,12,Grande,Muito Alta,2.0,Sim,8,Moderado,Moderado,26,5
+Standard Schnauzer,Germany,Standard,Distinct beard,7,15,Médio,Alta,2.0,Sim,7,Moderado,Moderado,14,6
+Sussex Spaniel,England,Sporting,Low-set body,7,11,Médio,Alta,1.5,Sim,6,Moderado,Moderado,18,6
+Swedish Vallhund,Sweden,Herding,Corgi-like,8,12,Médio,Moderada,2.0,Sim,8,Moderado,Baixo,12,7
+Thai Ridgeback,Thailand,Hound,Ridge of fur on back,6,12,Médio,Moderada,2.0,Com Treinamento,7,Moderado,Moderado,15,7
+Tibetan Mastiff,Tibet,Working,Imposing appearance,7,10,Grande,Alta,2.0,Com Treinamento,6,Moderado,Moderado,45,8
+Toy Fox Terrier,USA,Toy,Miniature Fox Terrier,8,15,Miniatura,Moderada,1.5,Sim,8,Baixo,Baixo,2,7
+Treeing Walker Coonhound,USA,Hound,Tracking ability,8,12,Médio,Moderada,2.0,Sim,7,Moderado,Moderado,20,7
+Welsh Springer Spaniel,Wales,Sporting,Compact build,8,13,Médio,Alta,2.0,Sim,7,Moderado,Moderado,16,6
+Welsh Terrier,Wales,Terrier,Distinctive eyebrows,7,14,Médio,Moderada,1.5,Sim,7,Moderado,Moderado,9,7
+West Highland White Terrier,Scotland,Terrier,White coat,8,13,Pequeno,Moderada,1.5,Sim,7,Moderado,Moderado,7,7
+Whippet,England,Hound,Miniature Greyhound,7,13,Médio,Baixa,2.0,Sim,8,Baixo,Baixo,8,6
+Wire Fox Terrier,England,Terrier,Energetic,7,14,Pequeno,Moderada,2.0,Sim,7,Moderado,Moderado,8,7
+Wirehaired Dachshund,Germany,Hound,Wiry coat,7,13,Pequeno,Moderada,1.5,Com Treinamento,7,Moderado,Alto,8,7
+Wirehaired Pointing Griffon,Netherlands,Sporting,Shaggy beard,7,13,Médio,Alta,2.0,Sim,7,Moderado,Moderado,20,6
+Xoloitzcuintli,Mexico,Non-Sporting,Hairless variety,7,15,Pequeno-Grande,Baixa,2.0,Com Treinamento,8,Baixo,Moderado,25-Jul,6
+Yorkshire Terrier,England,Toy,Long silky coat,8,13,Miniatura,Alta,1.0,Sim,7,Moderado,Moderado,2.5,6
